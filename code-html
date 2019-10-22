@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>ol type</title>
+  </head>
+  <body bg color="red">
+   <ol type="a">
+  <li>mango</li>
+  <li>banana</li>
+  <li>apple</li>
+  <li>orange</li>
+  </ol>
+</body>
+</html>
+  
+  
+  
