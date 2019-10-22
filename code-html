@@ -2,7 +2,7 @@
 <head>
   <title>ol type</title>
   </head>
-  <body bg color="red">
+  <body bgcolor="red"> // M Dilshan Thalagahapitiya ITT/16/117/079
    <ol type="a">
   <li>mango</li>
   <li>banana</li>
